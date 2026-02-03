@@ -1,3 +1,11 @@
+#Task 1: Vehicle Rental System
+#Design a Vehicle Rental System using OOP.
+#Requirements:
+#1. Create a class Vehicle
+#2. Attributes: vehicle_id, brand, rent_per_day
+#3. Methods: display_details(), calculate_rent(days)
+#4. Create at least two vehicle objects
+#5. Calculate rent for different days
 
 #Neeraj Khemani 24k-0548
 class Vehicle:
